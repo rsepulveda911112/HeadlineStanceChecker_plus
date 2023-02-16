@@ -1,0 +1,10 @@
+#preprocessing
+nltk
+#nltk.download('stopwords')
+spacy
+scikit-learn
+gensim
+simpletransformers
+transformers
+matplotlib
+wandb
